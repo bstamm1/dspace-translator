@@ -6,8 +6,9 @@ import requests
 
 translate_client = translate_v2.Client()
 
-base_url = 'http://localhost:8080'
-collection_id = '44f8a643-ba14-47fd-a68c-31d8f34fcfd2'
+# base_url = 'http://localhost:8080'
+base_url = 'http://54.166.16.48:8080'
+collection_id = 'aba58fb2-15df-4713-a851-5118e6c3a254'
 email = 'test@test.edu'
 password = 'admin'
 
